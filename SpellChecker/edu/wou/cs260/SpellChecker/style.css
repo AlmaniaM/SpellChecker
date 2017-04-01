@@ -1,0 +1,13 @@
+#saveButton{
+    -fx-margin-top: 10;
+}
+
+#clearButton{
+    -fx-background-color: #009688;
+}
+
+.button{
+    -fx-background-color: #009688;
+    -fx-text-fill: white;
+    -fx-effect: dropshadow( gaussian , rgba(0,0,0,0.75) , 4,0,0,1 );
+}
